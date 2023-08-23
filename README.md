@@ -1,1 +1,1 @@
-# dio-controle-fluxo
+Desenvolvimento de programa em Java Controle de Fluxo, onde o programa recebeu dois numeros inteiros para poder termos o numero de interações do laço de repetição for e exibir a quantidade de interações, também temos o tratamento de Exception com a classe ParametrosInvalidosException caso o primeiro numero seja maior que o segundo.
